@@ -1,6 +1,6 @@
 <div align="center">
 
-# ![BestAdamDaGoat Logo](https://github.com/bestadamdagoat/bestadamdagoat/blob/main/bestadamlogo.png?raw=true)
+# ![BestAdamDaGoat Logo](https://github.com/bestadamdagoat/bestadamdagoat/blob/main/bestadambanner.png?raw=true)
 
 # Hi, I’m @bestadamdagoat 👋
 On some other sites, I'm also known as @bestadam.
