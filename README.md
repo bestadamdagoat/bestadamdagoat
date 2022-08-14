@@ -19,7 +19,7 @@ I mean, who likes repeating the same task over and over? I'm guessing Selenium.
 I know my site isn't beautiful lol.
 
 # Here is the repository that I am currently working on 👨‍💻
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bestadamdagoat&repo=pringles-bot)](https://github.com/anuraghazra/github-readme-stats)
+[![Pringles Bot](https://github-readme-stats.vercel.app/api/pin/?username=bestadamdagoat&repo=pringles-bot)](https://github.com/bestadamdagoat/pringles-bot)
 
 # And here is the repository that I am most proud of 👨‍🎨
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bestadamdagoat&repo=pringles-bot)](https://github.com/anuraghazra/github-readme-stats)
+[![Pringles Bot](https://github-readme-stats.vercel.app/api/pin/?username=bestadamdagoat&repo=pringles-bot)](https://github.com/bestadamdagoat/pringles-bot)
