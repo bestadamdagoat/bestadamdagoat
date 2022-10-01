@@ -15,6 +15,9 @@ On some other sites, I'm also known as @bestadam.
 # I’m interested in making bots to automate tasks 🕒
 I mean, who likes repeating the same task over and over? I'm guessing Selenium.
 
+# I am learning Python, Go, and GDScript.
+See, the funny thing is that they're all simple languages.
+
 # To contact me, email me at adam@bestadamdagoat.com or scroll down to the bottom of [my website](https://www.bestadamdagoat.com) for my other social profiles. 📫
 I know my site isn't beautiful lol.
 
