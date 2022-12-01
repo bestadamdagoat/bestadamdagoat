@@ -22,7 +22,8 @@ See, the funny thing is that they're all simple languages.
 I know my site isn't beautiful lol.
 
 # Here is the repository that I am currently working on 👨‍💻
-[![Pringles Bot](https://github-readme-stats.vercel.app/api/pin/?username=bestadamdagoat&repo=flipperzero)](https://github.com/bestadamdagoat/flipperzero)
+[![Plate Checker](https://github-readme-stats.vercel.app/api/pin/?username=bestadamdagoat&repo=txVanityPlateChecker)](https://github.com/bestadamdagoat/txVanityPlateChecker)
 
-# And here is the repository that I am most proud of 👨‍🎨
+# And here are the repositories that I am most proud of 👨‍🎨
 [![Pringles Bot](https://github-readme-stats.vercel.app/api/pin/?username=bestadamdagoat&repo=pringles-bot)](https://github.com/bestadamdagoat/pringles-bot)
+[![Plate Checker](https://github-readme-stats.vercel.app/api/pin/?username=bestadamdagoat&repo=txVanityPlateChecker)](https://github.com/bestadamdagoat/txVanityPlateChecker)
