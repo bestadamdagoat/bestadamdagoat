@@ -21,9 +21,11 @@ See, the funny thing is that they're all simple languages.
 # To contact me, email me at adam@bestadamdagoat.com or scroll down to the bottom of [my website](https://www.bestadamdagoat.com) for my other social profiles. 📫
 I know my site isn't beautiful lol.
 
-# Here is the repository that I am currently working on 👨‍💻
+# Here are the repositories that I am currently working on 👨‍💻
 [![Plate Checker](https://github-readme-stats.vercel.app/api/pin/?username=bestadamdagoat&repo=txVanityPlateChecker)](https://github.com/bestadamdagoat/txVanityPlateChecker)
+[![Stadia Flashtool](https://github-readme-stats.vercel.app/api/pin/?username=bestadamdagoat&repo=stadia_flashtool)](https://github.com/bestadamdagoat/stadia_flashtool)
 
 # And here are the repositories that I am most proud of 👨‍🎨
 [![Pringles Bot](https://github-readme-stats.vercel.app/api/pin/?username=bestadamdagoat&repo=pringles-bot)](https://github.com/bestadamdagoat/pringles-bot)
 [![Plate Checker](https://github-readme-stats.vercel.app/api/pin/?username=bestadamdagoat&repo=txVanityPlateChecker)](https://github.com/bestadamdagoat/txVanityPlateChecker)
+[![Plate Checker](https://github-readme-stats.vercel.app/api/pin/?username=bestadamdagoat&repo=stadia_flashtool)](https://github.com/bestadamdagoat/stadia_flashtool)
