@@ -13,19 +13,19 @@ On some other sites, I'm also known as @bestadam.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bestadamdagoat&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 # I’m interested in making bots to automate tasks 🕒
-I mean, who likes repeating the same task over and over? I'm guessing Selenium.
+I mean, who likes repeating the same task over and over?
 
-# I am learning Python, Go, and GDScript.
-See, the funny thing is that they're all simple languages.
+# I am learning Python and Go.
+See, the funny thing is that they're simple languages.
 
 # To contact me, email me at adam@bestadamdagoat.com or scroll down to the bottom of [my website](https://www.bestadamdagoat.com) for my other social profiles. 📫
 I know my site isn't beautiful lol.
 
 # Here are the repositories that I am currently working on 👨‍💻
 [![Plate Checker](https://github-readme-stats.vercel.app/api/pin/?username=bestadamdagoat&repo=txVanityPlateChecker)](https://github.com/bestadamdagoat/txVanityPlateChecker)
-[![Stadia Flashtool](https://github-readme-stats.vercel.app/api/pin/?username=bestadamdagoat&repo=stadia_flashtool)](https://github.com/bestadamdagoat/stadia_flashtool)
+[![Stadia Flashtool](https://github-readme-stats.vercel.app/api/pin/?username=bestadamdagoat&repo=stadiaupdatetool)](https://github.com/bestadamdagoat/stadiaupdatetool)
 
 # And here are the repositories that I am most proud of 👨‍🎨
 [![Pringles Bot](https://github-readme-stats.vercel.app/api/pin/?username=bestadamdagoat&repo=pringles-bot)](https://github.com/bestadamdagoat/pringles-bot)
 [![Plate Checker](https://github-readme-stats.vercel.app/api/pin/?username=bestadamdagoat&repo=txVanityPlateChecker)](https://github.com/bestadamdagoat/txVanityPlateChecker)
-[![Plate Checker](https://github-readme-stats.vercel.app/api/pin/?username=bestadamdagoat&repo=stadia_flashtool)](https://github.com/bestadamdagoat/stadia_flashtool)
+[![Stadia Flashtool](https://github-readme-stats.vercel.app/api/pin/?username=bestadamdagoat&repo=stadiaupdatetool)](https://github.com/bestadamdagoat/stadiaupdatetool)
