@@ -26,5 +26,6 @@ I know my site isn't beautiful lol.
 
 # And here are the repositories that I am most proud of 👨‍🎨
 [![Pringles Bot](https://github-readme-stats.vercel.app/api/pin/?username=bestadamdagoat&repo=pringles-bot)](https://github.com/bestadamdagoat/pringles-bot)
-[![Plate Checker](https://github-readme-stats.vercel.app/api/pin/?username=bestadamdagoat&repo=txVanityPlateChecker)](https://github.com/bestadamdagoat/txVanityPlateChecker)
+[![TX Plate Checker](https://github-readme-stats.vercel.app/api/pin/?username=bestadamdagoat&repo=txVanityPlateChecker)](https://github.com/bestadamdagoat/txVanityPlateChecker)
+[![FL Plate Checker](https://github-readme-stats.vercel.app/api/pin/?username=bestadamdagoat&repo=flVanityPlateChecker)](https://github.com/bestadamdagoat/flVanityPlateChecker)
 [![Stadia Flashtool](https://github-readme-stats.vercel.app/api/pin/?username=bestadamdagoat&repo=stadiaupdatetool)](https://github.com/bestadamdagoat/stadiaupdatetool)
